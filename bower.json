@@ -1,0 +1,16 @@
+{
+	"name":"ember-try-badages",
+	"license": "MIT",
+	"private": true,
+	"ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+	"dependencies": {
+		"bootstrap": "^3.3.6",
+		"jquery": "^2.2.3"
+	}
+}

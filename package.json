@@ -1,0 +1,41 @@
+{
+  "name": "travis-jobs-badges",
+  "version": "1.0.0",
+  "description": "Add detailed information of your travis jobs",
+  "main": "app.js",
+  "keywords": [
+    "Koa",
+    "travis-jobs",
+    "badges"
+  ],
+  "author": "Gerardo Pérez Pérez",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "koa-logger": "^1.3.0"
+  },
+  "repository": "https://github.com/gerard2p/travis-jobs-badges.git",
+  "dependencies": {
+    "caminte": "^0.2.7",
+    "co-views": "^2.1.0",
+    "i": "^0.3.4",
+    "koa": "1.x.x",
+    "koa-bodyparser": "^2.0.1",
+    "koa-error": "^2.0.0",
+    "koa-etag": "^2.1.1",
+    "koa-helmet": "^1.0.0",
+    "koa-i18n": "^1.2.0",
+    "koa-locale": "^1.0.0",
+    "koa-passport": "^1.3.1",
+    "koa-router": "^5.4.0",
+    "koa-session": "^3.3.1",
+    "koa-socket": "^4.3.0",
+    "koa-static": "^2.0.0",
+    "koaton": "0.1.0-beta.2",
+    "request": "^2.74.0",
+    "request-promise": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
